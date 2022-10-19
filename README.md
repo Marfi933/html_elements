@@ -1,11 +1,13 @@
 # HOW TO USE:
 
 1. First you need to install the libraries, if you don't have them already. You can do this by running the following command in the terminal:
+    
     pip install bs4
     pip install requests
     pip install lxml
 
 2. Then you need to run script named "setup.py" to install my packge. You can do this by running the following command in the terminal:
+    
     pip install -e .
 
 3. Now you can use my package.
